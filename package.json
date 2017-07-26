@@ -1,6 +1,6 @@
 {
-  "name": "iamge-uri-exif-orientation",
-  "version": "1.0.1",
+  "name": "image-uri-exif-orientation",
+  "version": "1.0.2",
   "description": "An node module for get images orientation code based on it's exif data",
   "main": "index.js",
   "scripts": {
