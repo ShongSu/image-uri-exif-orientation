@@ -1,0 +1,26 @@
+{
+  "name": "iamge-uri-exif-orientation",
+  "version": "1.0.1",
+  "description": "An node module for get images orientation code based on it's exif data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/ShongSu/image-uri-exif-orientation"
+  },
+  "keywords": [
+    "image",
+    "exif",
+    "orientation"
+  ],
+  "author": "shongsu",
+  "license": "MIT",
+  "ignore": [
+   "**/.*",
+   "node_modules",
+   "bower_components",
+   "test"
+ ]
+}
