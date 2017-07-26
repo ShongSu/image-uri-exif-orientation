@@ -1,0 +1,1 @@
+# image-uri-exif-orientation
